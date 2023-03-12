@@ -14,5 +14,6 @@ about: Create a report to help us improve
 #### manifest.yaml
 
 ### Versions
+
 - Go:
-- slack-go/slack:
+- deepbluedot/slack:
