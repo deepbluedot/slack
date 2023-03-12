@@ -30,7 +30,7 @@ type Conversation struct {
 	NumMembers         int      `json:"num_members"`
 	Priority           float64  `json:"priority"`
 	User               string   `json:"user"`
-
+	ConversationHostID string   `json:"conversation_host_id"`
 	// TODO support pending_shared
 	// TODO support previous_names
 }
